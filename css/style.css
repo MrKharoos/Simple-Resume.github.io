@@ -1,0 +1,11 @@
+body{
+    background-color: #9ae8ff;
+}
+hr{
+    border-style: solid;
+    width: 40%;
+}
+#education_table{
+    border-collapse: collapse;
+    padding: 10px;
+}
